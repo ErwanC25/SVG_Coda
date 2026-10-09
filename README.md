@@ -1,2 +1,6 @@
 # SVG_Coda
-travail étudiant format graphique vectoriel
+## Erwan Cadoret
+### travail étudiant format graphique vectoriel
+Comment fonctionne le projet ?
+
+Tout d'abords...
